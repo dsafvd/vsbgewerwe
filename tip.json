@@ -1,0 +1,11 @@
+{
+  "alway": true,
+  "title": "停用提示",
+  "intro":"由于服务器错误, 需要重置APK, 很抱歉造成打扰, 但需要麻烦你于TG机器人@goofish_helper_bot中重新生成APK",
+  "exit": false,
+  "show": true,
+  "f": true,
+  "url": "",
+  "time": 3,
+  "v": 4
+}
